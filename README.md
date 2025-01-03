@@ -137,7 +137,7 @@ You can use the following shortcode to embed the detection feature on any page o
 ```
 
 ## Support
-For support, please raise an issue on the [GitHub repository](<repository-url>) or contact the maintainer via email at [mfoud444@gmail.com](mailto:mfoud444@gmail.com).
+For support, please raise an issue on the [GitHub repository](<https://github.com/mfoud444/PlantAI-Diagnosis-WP>) or contact the maintainer via email at [mfoud444@gmail.com](mailto:mfoud444@gmail.com).
 
 
 ## License

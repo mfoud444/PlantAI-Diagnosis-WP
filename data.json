@@ -1,0 +1,1288 @@
+{
+    "Apples_leaf": {
+        "label": {
+            "en": "Apples",
+            "ar": "تفاح"
+        },
+        "diseases": {
+            "Mosaic": {
+                "disease_name": {
+                    "en": "Mosaic",
+                    "ar": "تناظر"
+                },
+                "description": {
+                    "en": "Mosaic is a viral disease that causes a distinctive mottled or mosaic pattern on the leaves of affected plants. The leaves develop light and dark green or yellow areas, creating a patchwork effect.",
+                    "ar": "التناظر هو مرض فيروسي يسبب نمطًا مميزًا من البقع المتناظرة أو التناظرية على أوراق النباتات المصابة. تتطور الأوراق بمناطق خضراء فاتحة وخضراء داكنة أو صفراء، مما يخلق تأثيرًا متعدد الألوان."
+                },
+                "health_condition": {
+                    "en": "While mosaic viruses are not directly harmful to humans, they can reduce plant yields and quality, impacting food production and availability.",
+                    "ar": "على الرغم من أن الفيروسات التناظرية لا تؤثر مباشرة على البشر، إلا أنها قد تقلل من عائدات النباتات وجودتها، مما يؤثر على إنتاج الغذاء وتوافره."
+                }
+            },
+            "Scab": {
+                "disease_name": {
+                    "en": "Scab",
+                    "ar": "الجرب"
+                },
+                "description": {
+                    "en": "Scab is a fungal disease that causes rough, raised lesions or scabs to form on the surface of fruits, leaves, and stems. These scabs can crack and ooze, leading to deformation and potential fruit drop.",
+                    "ar": "الجرب هو مرض فطري يسبب تشوهات خشنة أو قروحًا مرتفعة على سطح الفواكه والأوراق والسيقان. يمكن أن تتشقق هذه القروح وتفرز، مما يؤدي إلى التشوه وتساقط الفاكهة المحتمل."
+                },
+                "health_condition": {
+                    "en": "Scabby fruits may be less visually appealing but are generally safe for consumption if the affected areas are removed. However, severe infestations can reduce yields and impact the overall quality of the produce.",
+                    "ar": "قد تكون الفواكه المصابة بالجرب أقل جاذبية بصرياً ولكنها عمومًا آمنة للاستهلاك إذا تمت إزالة المناطق المتضررة. ومع ذلك، يمكن أن تقلل الإصابات الشديدة من العائدات وتؤثر على الجودة العامة للمنتج."
+                }
+            },
+            "Rust on apple leaf": {
+                "disease_name": {
+                    "en": "Rust on apple leaf",
+                    "ar": "الصدأ على أوراق التفاح"
+                },
+                "description": {
+                    "en": "Rust on apple leaves is a fungal disease that manifests as bright orange or yellow spots on the leaves. These spots eventually turn dark brown or black, causing the leaves to wither and drop prematurely.",
+                    "ar": "الصدأ على أوراق التفاح هو مرض فطري يظهر على شكل بقع برتقالية أو صفراء اللون على الأوراق. تتحول هذه البقع في نهاية المطاف إلى لون بني داكن أو أسود، مما يؤدي إلى ذبول الأوراق وتساقطها مبكراً."
+                },
+                "health_condition": {
+                    "en": "Rust diseases generally do not pose a direct health risk to humans, but severe infections can weaken the plant and reduce crop yields.",
+                    "ar": "غالبًا ما لا تشكل أمراض الصدأ مخاطر صحية مباشرة على البشر، ولكن الإصابات الشديدة يمكن أن تضعف النبات وتقلل من عائدات المحاصيل."
+                }
+            },
+            "Powdery mildew": {
+                "disease_name": {
+                    "en": "Powdery mildew",
+                    "ar": "العفن الدقيق"
+                },
+                "description": {
+                    "en": "Powdery mildew is a fungal disease that covers plant surfaces with a white or grayish powdery growth. It can affect leaves, stems, and fruits, causing them to become distorted and stunted.",
+                    "ar": "العفن الدقيق هو مرض فطري يغطي سطوح النبات بنمو مسحوقي أبيض أو رمادي. يمكن أن يؤثر على الأوراق والسيقان والفواكه، مما يتسبب في تشوهها وتقزمها."
+                },
+                "health_condition": {
+                    "en": "While powdery mildew does not directly affect human health, it can reduce crop yields and quality, potentially impacting food availability.",
+                    "ar": "بالرغم من أن العفن الدقيق لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل من عائدات المحاصيل وجودتها، مما قد يؤثر على توافر الغذاء."
+                }
+            },
+            "Grey spot": {
+                "disease_name": {
+                    "en": "Grey spot",
+                    "ar": "البقعة الرمادية"
+                },
+                "description": {
+                    "en": "Grey spot is a fungal disease that causes circular grey or brown spots to appear on the leaves of affected plants. As the disease progresses, the spots can merge, causing premature leaf drop.",
+                    "ar": "البقعة الرمادية هو مرض فطري يسبب ظهور بقع رمادية أو بنية دائرية على أوراق النباتات المصابة. مع تقدم المرض، يمكن أن تدمج البقع، مما يتسبب في تساقط الأوراق المبكر."
+                },
+                "health_condition": {
+                    "en": "Grey spot is primarily a cosmetic issue and does not pose a direct health risk to humans. However, severe infections can impact plant growth and productivity.",
+                    "ar": "البقعة الرمادية هي في المقام الأول مشكلة تجميلية ولا تشكل مخاطر صحية مباشرة على البشر. ومع ذلك، يمكن أن تؤثر الإصابات الشديدة على نمو النبات وإنتاجيته."
+                }
+            },
+            "Frogeye leaf spot": {
+                "disease_name": {
+                    "en": "Frogeye leaf spot",
+                    "ar": "بقعة عين الضفدع"
+                },
+                "description": {
+                    "en": "Frogeye leaf spot is a fungal disease that causes circular spots with light-colored centers and dark margins to appear on leaves, resembling a frog's eye. These spots can eventually lead to leaf death and defoliation.",
+                    "ar": "بقعة عين الضفدع هي مرض فطري يسبب ظهور بقع دائرية ذات مراكز ذات ألوان فاتحة وهوامش داكنة على الأوراق، تشبه عين الضفدع. يمكن أن تؤدي هذه البقع في نهاية المطاف إلى موت الأوراق والتساقط."
+                },
+                "health_condition": {
+                    "en": "Frogeye leaf spot is not directly harmful to humans, but it can reduce plant vigor and crop yields if left untreated.",
+                    "ar": "بقعة عين الضفدع لا تشكل خطراً مباشراً على البشر، لكنها يمكن أن تقلل من قوة النبات وعائدات المحاصيل إذا لم يتم معالجتها."
+                }
+            },
+            "Brown spot": {
+                "disease_name": {
+                    "en": "Brown spot",
+                    "ar": "البقعة البنية"
+                },
+                "description": {
+                    "en": "Brown spot is a fungal disease that causes small, brown spots to develop on leaves, stems, and fruits. As the disease progresses, the spots can enlarge and merge, leading to tissue death and premature drop.",
+                    "ar": "البقعة البنية هي مرض فطري يسبب ظهور بقع بنية صغيرة على الأوراق والسيقان والفواكه. مع تقدم المرض، يمكن أن تكبر البقع وتدمج، مما يؤدي إلى موت الأنسجة والتساقط المبكر."
+                },
+                "health_condition": {
+                    "en": "Brown spot does not pose a direct health risk to humans, but it can impact crop quality and yield if the infection is severe.",
+                    "ar": "البقعة البنية لا تشكل خطراً مباشراً على صحة الإنسان، لكنها يمكن أن تؤثر على جودة المحصول والعائد إذا كانت الإصابة شديدة."
+                }
+            },
+            "Alternaria leaf spot": {
+                "disease_name": {
+                    "en": "Alternaria leaf spot",
+                    "ar": "بقعة ألترناريا على الأوراق"
+                },
+                "description": {
+                    "en": "Alternaria leaf spot is a fungal disease that causes circular, dark brown or black spots to appear on leaves. These spots can grow larger and merge, causing the leaves to turn yellow and drop prematurely.",
+                    "ar": "بقعة ألترناريا على الأوراق هي مرض فطري يسبب ظهور بقع داكنة بنية داكنة أو سوداء دائرية على الأوراق. يمكن أن تكبر هذه البقع وتدمج، مما يتسبب في تحول الأوراق إلى اللون الأصفر والتساقط المبكر."
+                },
+                "health_condition": {
+                    "en": "While Alternaria leaf spot does not directly affect human health, it can reduce plant vigor and productivity, potentially impacting crop yields.",
+                    "ar": "على الرغم من أن بقعة ألترناريا على الأوراق لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من قوة النبات والإنتاجية، مما قد يؤثر على عائدات المحاصيل."
+                }
+            },
+            "Apple rot leaves": {
+                "disease_name": {
+                    "en": "Apple rot leaves",
+                    "ar": "تعفن أوراق التفاح"
+                },
+                "description": {
+                    "en": "Apple rot leaves is a fungal disease that causes dark, water-soaked lesions to form on the leaves of apple trees. These lesions can eventually lead to leaf drop and defoliation, weakening the overall health of the tree.",
+                    "ar": "تعفن أوراق التفاح هو مرض فطري يسبب ظهور تشوهات داكنة مشبعة بالماء على أوراق أشجار التفاح. يمكن أن تؤدي هذه التشوهات في نهاية المطاف إلى تساقط الأوراق والتحول إلى عارية، مما يضعف الصحة العامة للشجرة."
+                },
+                "health_condition": {
+                    "en": "Apple rot leaf disease does not pose a direct health risk to humans, but it can impact the overall productivity and yield of apple trees if left unchecked.",
+                    "ar": "مرض تعفن أوراق التفاح لا يشكل خطرًا مباشرًا على صحة الإنسان، لكنه يمكن أن يؤثر على الإنتاجية العامة والعائد من أشجار التفاح إذا لم يتم السيطرة عليه."
+                }
+            }
+        }
+    },
+    "Eggplant_leaves": {
+        "label": {
+            "en": "Eggplant",
+            "ar": "باذنجان"
+        },
+        "diseases": {
+            "Eggplant, Mite, and Epilachna Beetle": {
+                "disease_name": {
+                    "en": "Eggplant, Mite, and Epilachna Beetle",
+                    "ar": "الباذنجان، العنكبوت، وخنفساء البطاطس"
+                },
+                "description": {
+                    "en": "This condition refers to a combination of pest infestations and diseases affecting eggplant plants. Mites, Epilachna beetles, and various fungal or bacterial diseases can cause leaf discoloration, stunted growth, and reduced fruit production.",
+                    "ar": "تشير هذه الحالة إلى مزيج من الآفات والأمراض التي تؤثر على نباتات الباذنجان. العناكب وخنافس خنفساء البطاطس، والعديد من الأمراض الفطرية أو البكتيرية يمكن أن تسبب تغير لون الأوراق، والنمو المتعثر، والإنتاج المنخفض للثمار."
+                },
+                "health_condition": {
+                    "en": "While these pests and diseases do not directly affect human health, they can significantly reduce eggplant yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن هذه الآفات والأمراض لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل بشكل كبير من عائدات الباذنجان وجودتها، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                }
+            },
+            "Eggplant - Mite": {
+                "disease_name": {
+                    "en": "Eggplant - Mite",
+                    "ar": "الباذنجان - العنكبوت"
+                },
+                "description": {
+                    "en": "Eggplant mites are small spider-like pests that feed on the leaves of eggplant plants, causing stippling, discoloration, and potential defoliation.",
+                    "ar": "العناكب البيضاء هي آفات صغيرة تشبه العناكب تتغذى على أوراق نباتات الباذنجان، مما يسبب التنقيط، وتغير لون الأوراق، وتساقط الأوراق المحتمل."
+                },
+                "health_condition": {
+                    "en": "Mite infestations do not pose a direct health risk to humans, but they can reduce eggplant plant vigor and productivity, impacting fruit yields.",
+                    "ar": "الإصابات بالعنكبوت لا تشكل خطراً مباشراً على صحة الإنسان، لكنها يمكن أن تقلل من نمو الباذنجان وإنتاجيته، مما يؤثر على عائدات الفاكهة."
+                }
+            },
+            "Eggplant - Jassid": {
+                "disease_name": {
+                    "en": "Eggplant - Jassid",
+                    "ar": "الباذنجان - جاسيد"
+                },
+                "description": {
+                    "en": "Jassids, also known as leafhoppers, are small insects that feed on the sap of eggplant plants, causing leaf curling, stunted growth, and potential yield loss.",
+                    "ar": "الجاسيد، المعروف أيضا بالعناكب، هي حشرات صغيرة تتغذى على لب الباذنجان، مما يسبب لف الأوراق، وتوقف النمو، وفقدان الإنتاج المحتمل."
+                },
+                "health_condition": {
+                    "en": "Jassid infestations are not directly harmful to humans, but they can weaken eggplant plants and reduce fruit production, potentially impacting their availability.",
+                    "ar": "الإصابات بالجاسيد لا تشكل خطراً مباشراً على صحة الإنسان، لكنها يمكن أن تضعف نباتات الباذنجان وتقلل من إنتاج الفاكهة، مما قد يؤثر على توافرها."
+                }
+            },
+            "Eggplant - Epilachna Beetle": {
+                "disease_name": {
+                    "en": "Eggplant - Epilachna Beetle",
+                    "ar": "الباذنجان - خنفساء البطاطس"
+                },
+                "description": {
+                    "en": "Epilachna beetles, also known as eggplant lace bugs, are pests that feed on the leaves of eggplant plants, causing skeletonization and potential defoliation.",
+                    "ar": "خنافس خنفساء البطاطس، المعروفة أيضًا بالعناكب، هي آفات تتغذى على أوراق نباتات الباذنجان، مما يسبب تقشر الأوراق وتساقطها المحتمل."
+                },
+                "health_condition": {
+                    "en": "While Epilachna beetles do not pose a direct health risk to humans, they can significantly damage eggplant plants, reducing their ability to produce fruits.",
+                    "ar": "على الرغم من أن خنافس خنفساء البطاطس لا تشكل خطراً مباشراً على صحة الإنسان، إلا أنها يمكن أن تتسبب في تلف كبير لنباتات الباذنجان، مما يقلل من قدرتها على إنتاج الثمار."
+                }
+            },
+            "Eggplant - Nitrogen and Potassium Deficiency": {
+                "disease_name": {
+                    "en": "Eggplant - Nitrogen and Potassium Deficiency",
+                    "ar": "الباذنجان - نقص النيتروجين والبوتاسيوم"
+                },
+                "description": {
+                    "en": "This condition refers to a nutrient deficiency in eggplant plants, where there is a lack of sufficient nitrogen and potassium in the soil. It can cause stunted growth, yellowing of leaves, and reduced fruit production.",
+                    "ar": "تشير هذه الحالة إلى نقص العناصر الغذائية في نباتات الباذنجان، حيث يفتقر التربة إلى ما يكفي من النيتروجين والبوتاسيوم. يمكن أن يتسبب في توقف النمو، وتغير لون الأوراق إلى اللون الأصفر، وتقليل إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "Nutrient deficiencies in plants do not directly affect human health, but they can reduce eggplant yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "نقص العناصر الغذائية في النباتات لا يؤثر مباشرة على صحة الإنسان، لكنه يمكن أن يقلل من عائدات الباذنجان وجودتها، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                }
+            },
+            "Eggplant - Nitrogen Deficiency": {
+                "disease_name": {
+                    "en": "Eggplant - Nitrogen Deficiency",
+                    "ar": "الباذنجان - نقص النيتروجين"
+                },
+                "description": {
+                    "en": "Nitrogen deficiency in eggplant plants is characterized by stunted growth, yellowing of older leaves, and reduced fruit production.",
+                    "ar": "يتميز نقص النيتروجين في نباتات الباذنجان بتوقف النمو، وتغير لون الأوراق القديمة إلى اللون الأصفر، وتقليل إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "While nitrogen deficiency does not pose a direct health risk to humans, it can impact eggplant plant vigor and productivity, potentially reducing fruit yields.",
+                    "ar": "على الرغم من أن نقص النيتروجين لا يشكل خطراً مباشراً على صحة الإنسان، إلا أنه يمكن أن يؤثر على نمو الباذنجان وإنتاجيته، مما يقلل من عائدات الفاكهة."
+                }
+            },
+            "Eggplant - Potassium Deficiency": {
+                "disease_name": {
+                    "en": "Eggplant - Potassium Deficiency",
+                    "ar": "الباذنجان - نقص البوتاسيوم"
+                },
+                "description": {
+                    "en": "Potassium deficiency in eggplant plants can cause leaf edge scorching, stunted growth, and reduced fruit production.",
+                    "ar": "يمكن أن يتسبب نقص البوتاسيوم في نباتات الباذنجان في حروق على حافة الأوراق، وتوقف النمو، وتقليل إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "Potassium deficiency does not directly affect human health, but it can weaken eggplant plants and reduce their ability to produce fruits, potentially impacting their availability.",
+                    "ar": "نقص البوتاسيوم لا يؤثر مباشرة على صحة الإنسان، لكنه يمكن أن يضعف نباتات الباذنجان ويقلل من قدرتها على إنتاج الفاكهة، مما قد يؤثر على توافرها."
+                }
+            },
+            "Augmented Insect Pest Disease": {
+                "disease_name": {
+                    "en": "Augmented Insect Pest Disease",
+                    "ar": "زيادة أمراض الآفات الحشرية"
+                },
+                "description": {
+                    "en": "This condition refers to a combination of various insect pests, such as aphids, whiteflies, and thrips, that can infest and damage eggplant plants, causing leaf discoloration, stunted growth, and reduced fruit production.",
+                    "ar": "تشير هذه الحالة إلى مزيج من الآفات الحشرية المختلفة، مثل الفقاريات البيضاء والذباب الأبيض، والتربس، التي يمكن أن تصيب وتتلف نباتات الباذنجان، مما يسبب تغير لون الأوراق، وتوقف النمو، وتقليل إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "While insect pests do not directly affect human health, they can significantly reduce eggplant yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن الآفات الحشرية لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل بشكل كبير من عائدات الباذنجان وجودتها، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                }
+            },
+            "Augmented Leaf Spot Disease": {
+                "disease_name": {
+                    "en": "Augmented Leaf Spot Disease",
+                    "ar": "زيادة أمراض بقعة الأوراق"
+                },
+                "description": {
+                    "en": "Augmented leaf spot disease is a condition where various fungal or bacterial pathogens cause leaf spots, blotches, and potential defoliation in eggplant plants.",
+                    "ar": "تعتبر مرض بقعة الأوراق المتزايدة حالة يسبب فيها مسببات فطرية أو بكتيرية مختلفة بقعًا على الأوراق، والبقع، وتساقط الأوراق المحتمل في نباتات الباذنجان."
+                },
+                "health_condition": {
+                    "en": "Leaf spot diseases do not pose a direct health risk to humans, but they can weaken eggplant plants and reduce their ability to produce fruits, potentially impacting their availability.",
+                    "ar": "أمراض بقعة الأوراق لا تشكل خطراً مباشراً على صحة الإنسان، لكنها يمكن أن تضعف نباتات الباذنجان وتقلل من قدرتها على إنتاج الفاكهة، مما قد يؤثر على توافرها."
+                }
+            },
+            "Augmented Mosaic Virus Disease": {
+                "disease_name": {
+                    "en": "Augmented Mosaic Virus Disease",
+                    "ar": "زيادة أمراض فيروس التبقع"
+                },
+                "description": {
+                    "en": "Augmented mosaic virus disease is a condition where different mosaic viruses infect eggplant plants, causing mottled or mosaic patterns on the leaves, stunted growth, and potential yield loss.",
+                    "ar": "يعتبر مرض زيادة فيروس التبقع حالة تصيب نباتات الباذنجان بفيروسات تبقع مختلفة، مما يسبب تباينًا أو نماذج متباينة على الأوراق، وتوقف النمو، وفقدان الإنتاج المحتمل."
+                },
+                "health_condition": {
+                    "en": "While mosaic viruses are not directly harmful to humans, they can reduce eggplant yields and quality, impacting food production and availability.",
+                    "ar": "على الرغم من أن فيروسات التبقع لا تشكل خطرًا مباشرًا على صحة الإنسان، إلا أنها يمكن أن تقلل من عائدات الباذنجان وجودتها، مما يؤثر على إنتاجها وتوافرها."
+                }
+            },
+            "Augmented Wilt Disease": {
+                "disease_name": {
+                    "en": "Augmented Wilt Disease",
+                    "ar": "زيادة أمراض الذبول"
+                },
+                "description": {
+                    "en": "Augmented wilt disease is a condition where various fungal or bacterial pathogens cause wilting, yellowing, and potential death of eggplant plants.",
+                    "ar": "تعتبر مرض الذبول المتزايد حالة يسبب فيها مسببات فطرية أو بكتيرية مختلفة الذبول، والتغير لون الأوراق إلى الأصفر، والموت المحتمل لنباتات الباذنجان."
+                },
+                "health_condition": {
+                    "en": "Wilt diseases do not pose a direct health risk to humans, but they can severely impact eggplant plant health and productivity, reducing fruit yields and quality.",
+                    "ar": "أمراض الذبول لا تشكل خطراً مباشراً على صحة الإنسان، لكنها يمكن أن تؤثر بشكل كبير على صحة وإنتاجية نباتات الباذنجان، مما يقلل من عائدات الفاكهة وجودتها."
+                }
+            },
+            "Augmented White Mold Disease": {
+                "disease_name": {
+                    "en": "Augmented White Mold Disease",
+                    "ar": "زيادة مرض العفن الأبيض"
+                },
+                "description": {
+                    "en": "Augmented white mold disease is a condition where various fungal pathogens cause white, fluffy mold growth on eggplant plants, leading to tissue decay and potential plant death.",
+                    "ar": "يعتبر مرض العفن الأبيض المتزايد حالة يسبب فيها مسببات فطرية مختلفة نموًا أبيضًا، مما يؤدي إلى تحلل الأنسجة والموت المحتمل لنباتات الباذنجان."
+                },
+                "health_condition": {
+                    "en": "While mold growth on plants does not directly affect human health, it can significantly reduce eggplant yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن نمو العفن على النباتات لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل بشكل كبير من عائدات الباذنجان وجودتها، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                }
+            },
+            "Downy mildew": {
+                "disease_name": {
+                    "en": "Downy mildew",
+                    "ar": "العفن الدبقي"
+                },
+                "description": {
+                    "en": "Downy mildew is a fungal disease that affects eggplant plants, causing yellow or pale green spots on the upper leaf surface and a downy gray or purple growth on the underside. It can also cause stunted growth and reduced fruit production.",
+                    "ar": "العفن الدبقي هو مرض فطري يصيب نباتات الباذنجان، مما يسبب ظهور بقع صفراء أو خضراء فاتحة على سطح الورقة العلوي ونمو رمادي أو بنفسجي عفني على الجانب السفلي. يمكن أيضًا أن يتسبب في توقف النمو وتقليل إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "While downy mildew does not directly affect human health, it can reduce eggplant yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن العفن الدبقي لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل من عائدات الباذنجان وجودتها، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                }
+            }
+        }
+    },
+    "Insects": {
+        "label": {
+            "en": "Insects",
+            "ar": "الحشرات"
+        },
+        "diseases": {
+            "Bemisia arge...": {
+                "disease_name": {
+                    "en": "Bemisia arge...",
+                    "ar": "بيميسيا أرج..."
+                },
+                "description": {
+                    "en": "Bemisia argentifolii, also known as the silverleaf whitefly, is a pest that can infest and damage various crop plants, including vegetables, fruits, and ornamentals.",
+                    "ar": "بيميسيا أرجنتيفولي، المعروفة أيضًا باسم الذبابة البيضاء ذات الورق الفضي، هي آفة يمكن أن تصيب وتلحق الضرر بمختلف محاصيل النباتات، بما في ذلك الخضروات والفواكه والنباتات الزينة."
+                },
+                "health_condition": {
+                    "en": "While whitefly infestations do not directly affect human health, they can reduce plant vigor and productivity, potentially impacting crop yields and quality.",
+                    "ar": "على الرغم من أن الإصابات بالذبابة البيضاء لا تؤثر مباشرة على صحة الإنسان، إلا أنها قد تقلل من قوة وإنتاجية النبات، مما قد يؤثر بشكل كبير على عائدات المحاصيل وجودتها."
+                }
+            },
+            "Helicoverpa ...": {
+                "disease_name": {
+                    "en": "Helicoverpa ...",
+                    "ar": "هيليكوفيربا ..."
+                },
+                "description": {
+                    "en": "Helicoverpa spp., commonly known as bollworms or corn earworms, are caterpillar pests that can feed on various crops, including cotton, corn, tomatoes, and more.",
+                    "ar": "هيليكوفيربا نوع، المعروفة أيضًا باسم دودة القطن أو دودة الذرة، هي آفة يمكن أن تتغذى على مختلف المحاصيل، بما في ذلك القطن والذرة والطماطم، وغيرها."
+                },
+                "health_condition": {
+                    "en": "Bollworm infestations do not pose a direct health risk to humans, but they can cause significant damage to crops, reducing yields and quality.",
+                    "ar": "لا تشكل الإصابات بدودة القطن مخاطر صحية مباشرة على الإنسان، ولكنها قد تتسبب في أضرار كبيرة للمحاصيل، مما يقلل من العائد والجودة."
+                }
+            },
+            "Myzus persic...": {
+                "disease_name": {
+                    "en": "Myzus persic...",
+                    "ar": "ميزوس بيرسيك..."
+                },
+                "description": {
+                    "en": "Myzus persicae, also known as the green peach aphid, is a common pest that can infest and damage various crops, including vegetables, fruits, and ornamentals.",
+                    "ar": "ميزوس بيرسيكي، المعروف أيضًا باسم البق الخضراء الخوخ، هو آفة شائعة يمكن أن تصيب وتلحق الضرر بمختلف المحاصيل، بما في ذلك الخضروات والفواكه والنباتات الزينة."
+                },
+                "health_condition": {
+                    "en": "While aphid infestations do not directly affect human health, they can weaken plants, transmit viruses, and reduce crop yields and quality.",
+                    "ar": "على الرغم من أن الإصابات بالبق الخضراء لا تؤثر مباشرة على صحة الإنسان، إلا أنها قد تضعف النباتات وتنقل الفيروسات وتقلل من عائدات المحاصيل وجودتها."
+                }
+            },
+            "Spodoptera e...": {
+                "disease_name": {
+                    "en": "Spodoptera e...",
+                    "ar": "سبودوبتيرا ..."
+                },
+                "description": {
+                    "en": "Spodoptera exigua, commonly known as the beet armyworm, is a caterpillar pest that can feed on various crops, including vegetables, fruits, and ornamentals.",
+                    "ar": "سبودوبتيرا اكسيجوا، المعروفة أيضًا باسم دودة الجيش البيت، هي آفة تسرسل يمكن أن تتغذى على مختلف المحاصيل، بما في ذلك الخضروات والفواكه والنباتات الزينة."
+                },
+                "health_condition": {
+                    "en": "Beet armyworm infestations do not pose a direct health risk to humans, but they can cause significant damage to crops, reducing yields and quality.",
+                    "ar": "لا تشكل الإصابات بدودة الجيش البيت مخاطر صحية مباشرة على الإنسان، ولكنها قد تتسبب في أضرار كبيرة للمحاصيل، مما يقلل من العائد والجودة."
+                }
+            },
+            "Spodoptera l...": {
+                "disease_name": {
+                    "en": "Spodoptera l...",
+                    "ar": "سبودوبتيرا ل..."
+                },
+                "description": {
+                    "en": "Tetranychus spp., commonly known as spider mites, are tiny pests that can infest various crops, feeding on the leaves and causing stippling, discoloration, and potential defoliation.",
+                    "ar": "النمل الزاحف هو نوع من الآفات الصغيرة التي يمكن أن تصيب محاصيل مختلفة، حيث تتغذى على الأوراق مما يسبب تكسير الأوراق وتغيير لونها وتساقطها المحتمل."
+                },
+                "health_condition": {
+                    "en": "Spider mite infestations do not pose a direct health risk to humans, but they can weaken plants, reduce photosynthesis, and impact crop yields and quality.",
+                    "ar": "الإصابات بالنمل الزاحف لا تشكل خطرًا مباشرًا على الصحة البشرية، ولكنها قد تضعف النباتات وتقلل من عملية التمثيل الضوئي وتؤثر على إنتاج المحاصيل وجودتها."
+                }
+            },
+            "Tetranychus ...": {
+                "disease_name": {
+                    "en": "Tetranychus ...",
+                    "ar": "تترانيكوس ..."
+                },
+                "description": {
+                    "en": "Tetranychus spp., commonly known as spider mites, are tiny pests that can infest various crops, feeding on the leaves and causing stippling, discoloration, and potential defoliation.",
+                    "ar": "النمل الزاحف هو نوع من الآفات الصغيرة التي يمكن أن تصيب محاصيل مختلفة، حيث تتغذى على الأوراق مما يسبب تكسير الأوراق وتغيير لونها وتساقطها المحتمل."
+                },
+                "health_condition": {
+                    "en": "Spider mite infestations do not pose a direct health risk to humans, but they can weaken plants, reduce photosynthesis, and impact crop yields and quality.",
+                    "ar": "الإصابات بالنمل الزاحف لا تشكل خطرًا مباشرًا على الصحة البشرية، ولكنها قد تضعف النباتات وتقلل من عملية التمثيل الضوئي وتؤثر على إنتاج المحاصيل وجودتها."
+                }
+            },
+            "Thrips palmi": {
+                "disease_name": {
+                    "en": "Thrips palmi",
+                    "ar": "ثريبس بالمي"
+                },
+                "description": {
+                    "en": "Thrips palmi, also known as the melon thrips, is a pest that can infest and damage various crops, including vegetables, fruits, and ornamentals.",
+                    "ar": "ثريبس بالمي، المعروف أيضًا باسم ثريبس البطيخ، هو آفة يمكن أن تصيب وتتلف محاصيل مختلفة، بما في ذلك الخضروات والفواكه والنباتات الزينة."
+                },
+                "health_condition": {
+                    "en": "Thrips infestations do not directly affect human health, but they can cause stunted growth, leaf discoloration, and reduced crop yields and quality.",
+                    "ar": "الإصابات بالثريبس لا تؤثر مباشرة على صحة الإنسان، ولكنها قد تسبب نموا متوقفا، وتغيير لون الأوراق، وتقليل إنتاج المحاصيل وجودتها."
+                }
+            },
+            "Zeugodacus c...": {
+                "disease_name": {
+                    "en": "Zeugodacus c...",
+                    "ar": "زيوجوداكوس س..."
+                },
+                "description": {
+                    "en": "Zeugodacus cucurbitae, commonly known as the melon fly or cucumber fly, is a fruit fly pest that can infest and damage various cucurbit crops, such as melons, cucumbers, and pumpkins.",
+                    "ar": "زيوجوداكوس كوكوربيتي، المعروف أيضًا باسم ذبابة البطيخ أو ذبابة الخيار، هو آفة من ذباب الفاكهة يمكن أن تصيب وتتلف محاصيل مختلفة من القرع، مثل البطيخ والخيار واليقطين."
+                },
+                "health_condition": {
+                    "en": "Fruit fly infestations do not pose a direct health risk to humans, but they can cause significant damage to crops, reducing yields and quality.",
+                    "ar": "الإصابات بذباب الفاكهة لا تشكل خطرًا مباشرًا على صحة الإنسان، ولكنها قد تتسبب في أضرار كبيرة للمحاصيل، مما يؤدي إلى تقليل الإنتاج والجودة."
+                }
+            }
+        }
+    },
+    "pomegranate": {
+        "label": {
+            "en": "Pomegranate",
+            "ar": "رمان"
+        },
+        "diseases": {
+            "Cercospora": {
+                "disease_name": {
+                    "en": "Cercospora",
+                    "ar": "السيركوسبورا"
+                },
+                "description": {
+                    "en": "Cercospora is a fungal disease that affects pomegranate plants, causing irregular brown spots to appear on the leaves, stems, and fruits. These spots can eventually merge, leading to leaf drop and fruit rot.",
+                    "ar": "السيركوسبورا هي مرض فطري يؤثر على نباتات الرمان، مما يسبب ظهور بقع بنية غير منتظمة على الأوراق والسيقان والثمار. يمكن أن تدمج هذه البقع في نهاية المطاف، مما يؤدي إلى تساقط الأوراق وتعفن الثمار."
+                },
+                "health_condition": {
+                    "en": "While Cercospora does not directly affect human health, it can significantly reduce pomegranate yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن السيركوسبورا لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل بشكل كبير من إنتاجية وجودة الرمان، مما قد يؤثر على توفره وقيمته الغذائية."
+                }
+            },
+            "Bacterial Blight": {
+                "disease_name": {
+                    "en": "Bacterial Blight",
+                    "ar": "اللفحة البكتيرية"
+                },
+                "description": {
+                    "en": "Bacterial blight is a bacterial disease that affects pomegranate plants, causing water-soaked lesions to form on the leaves, stems, and fruits. These lesions can eventually turn brown or black, leading to defoliation and fruit drop.",
+                    "ar": "اللفحة البكتيرية هي مرض بكتيري يؤثر على نباتات الرمان، مما يسبب تكوين تقرحات مشبعة بالماء على الأوراق والسيقان والثمار. يمكن أن تتحول هذه التقرحات في نهاية المطاف إلى اللون البني أو الأسود، مما يؤدي إلى تساقط الأوراق والثمار."
+                },
+                "health_condition": {
+                    "en": "Bacterial blight does not pose a direct health risk to humans, but it can severely impact pomegranate plant health and productivity, reducing fruit yields and quality.",
+                    "ar": "اللفحة البكتيرية لا تشكل خطرًا مباشرًا على صحة الإنسان، ولكن يمكن أن تؤثر بشكل كبير على صحة وإنتاجية نباتات الرمان، مما يقلل من إنتاج الثمار وجودتها."
+                }
+            },
+            "Anthracnose": {
+                "disease_name": {
+                    "en": "Anthracnose",
+                    "ar": "الأنثراكنوز"
+                },
+                "description": {
+                    "en": "Anthracnose is a fungal disease that affects pomegranate plants, causing dark brown or black lesions to form on the leaves, stems, and fruits. These lesions can eventually lead to defoliation, fruit rot, and potential plant death.",
+                    "ar": "الأنثراكنوز هو مرض فطري يؤثر على نباتات الرمان، مما يسبب تكوين تقرحات بنية داكنة أو سوداء على الأوراق والسيقان والثمار. يمكن أن تؤدي هذه التقرحات في نهاية المطاف إلى تساقط الأوراق وتعفن الثمار وموت النبات."
+                },
+                "health_condition": {
+                    "en": "While anthracnose does not directly affect human health, it can significantly reduce pomegranate yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن الأنثراكنوز لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل بشكل كبير من إنتاجية وجودة الرمان، مما قد يؤثر على توفره وقيمته الغذائية."
+                }
+            },
+            "Alternaria": {
+                "disease_name": {
+                    "en": "Alternaria",
+                    "ar": "ألترناريا"
+                },
+                "description": {
+                    "en": "Alternaria is a fungal disease that affects pomegranate plants, causing circular, dark brown or black spots to appear on the leaves, stems, and fruits. These spots can grow larger and merge, leading to tissue death and potential fruit drop.",
+                    "ar": "ألترناريا هو مرض فطري يؤثر على نباتات الرمان، مما يتسبب في ظهور بقع دائرية غامقة اللون أو سوداء على الأوراق والسيقان والثمار. يمكن أن تنمو هذه البقع بشكل أكبر وتندمج معًا، مما يؤدي إلى موت الأنسجة وتساقط الثمار المحتمل."
+                },
+                "health_condition": {
+                    "en": "Alternaria does not pose a direct health risk to humans, but it can impact pomegranate quality and yield if the infection is severe.",
+                    "ar": "ألترناريا لا تشكل خطرًا مباشرًا على صحة الإنسان، ولكن يمكن أن تؤثر على جودة الرمان وإنتاجيته إذا كانت الإصابة شديدة."
+                }
+            }
+        }
+    },
+    "new_sunflowerdiseases": {
+        "label": {
+            "en": "Sunflower",
+            "ar": "عباد الشمس"
+        },
+        "diseases": {
+            "Downy mildew": {
+                "disease_name": {
+                    "en": "Downy mildew",
+                    "ar": "العفن الدقيقي"
+                },
+                "description": {
+                    "en": "Downy mildew is a fungal disease that affects eggplant plants, causing yellow or pale green spots on the upper leaf surface and a downy gray or purple growth on the underside. It can also cause stunted growth and reduced fruit production.",
+                    "ar": "العفن الدقيق هو مرض فطري يؤثر على نباتات الباذنجان، مما يتسبب في ظهور بقع صفراء أو خضراء شاحبة على السطح العلوي للأوراق ونمو رمادي أو أرجواني اللون على الجهة السفلية. كما يمكن أن يتسبب في نمو متعثر وانخفاض إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "While downy mildew does not directly affect human health, it can reduce eggplant yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن العفن الدقيق لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل من إنتاجية وجودة الباذنجان، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                }
+            },
+            "Gray mold": {
+                "disease_name": {
+                    "en": "Gray mold",
+                    "ar": "العفن الرمادي"
+                },
+                "description": {
+                    "en": "Gray mold, also known as Botrytis rot, is a fungal disease that affects sunflower plants, causing gray or brown fuzzy mold growth on the leaves, stems, and flower heads. It can lead to tissue decay and potential plant death.",
+                    "ar": "العفن الرمادي، المعروف أيضًا بتعفن بوتريتيس، هو مرض فطري يؤثر على نباتات عباد الشمس، مما يتسبب في نمو عفن رمادي أو بني زائد على الأوراق والسيقان ورؤوس الزهور. يمكن أن يؤدي إلى تدهور الأنسجة وموت النبات المحتمل."
+                },
+                "health_condition": {
+                    "en": "While gray mold does not directly affect human health, it can reduce sunflower seed yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن العفن الرمادي لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل من إنتاجية وجودة بذور عباد الشمس، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                }
+            },
+            "Leaf scars": {
+                "disease_name": {
+                    "en": "Leaf scars",
+                    "ar": "ندوب الأوراق"
+                },
+                "description": {
+                    "en": "Leaf scars are discolored or necrotic areas that can appear on sunflower leaves, often as a result of environmental stress, nutrient deficiencies, or pest damage.",
+                    "ar": "ندوب الأوراق هي مناطق متغيرة اللون أو نخرية يمكن أن تظهر على أوراق عباد الشمس، في كثير من الأحيان نتيجة للتوتر البيئي أو نقص العناصر الغذائية أو الضرر الذي يلحقه الآفات."
+                },
+                "health_condition": {
+                    "en": "Leaf scars themselves do not pose a direct health risk to humans, but they can indicate underlying issues that may impact sunflower plant health and productivity.",
+                    "ar": "ندوب الأوراق نفسها لا تشكل خطرًا مباشرًا على صحة الإنسان، لكنها قد تشير إلى قضايا أساسية قد تؤثر على صحة عباد الشمس وإنتاجيتها."
+                }
+            }
+        }
+    },
+    "strawberry diseasessecound": {
+        "label": {
+            "en": "Strawberry",
+            "ar": "الفراولة"
+        },
+        "diseases": {
+            "Angular leafspot": {
+                "disease_name": {
+                    "en": "Angular leafspot",
+                    "ar": "بقعة الورق الزاوية"
+                },
+                "description": {
+                    "en": "Angular leafspot is a bacterial disease that affects strawberry plants, causing angular, water-soaked lesions on the leaves. These lesions can eventually turn brown or reddish-brown, leading to potential defoliation.",
+                    "ar": "بقعة الورق الزاوية هو مرض بكتيري يؤثر على نباتات الفراولة، مما يتسبب في ظهور آفات زاوية مشبعة بالماء على الأوراق. يمكن أن تتحول هذه الآفات في نهاية المطاف إلى اللون البني أو البني الأحمر، مما يؤدي إلى التساقط المحتمل للأوراق."
+                },
+                "health_condition": {
+                    "en": "While angular leafspot does not directly affect human health, it can reduce strawberry plant vigor and productivity, potentially impacting fruit yields and quality.",
+                    "ar": "على الرغم من أن بقعة الورق الزاوية لا تؤثر مباشرة على صحة الإنسان، إلا أنها قد تقلل من قوة وإنتاجية نباتات الفراولة، مما قد يؤثر على إنتاج الثمار وجودتها."
+                }
+            },
+            "Blossom blight": {
+                "disease_name": {
+                    "en": "Blossom blight",
+                    "ar": "ذبول الأزهار"
+                },
+                "description": {
+                    "en": "Blossom blight is a fungal disease that affects strawberry plants, causing the flowers and fruit to turn brown, shrivel, and rot. It can significantly reduce fruit production and quality.",
+                    "ar": "ذبول الأزهار هو مرض فطري يؤثر على نباتات الفراولة، مما يتسبب في تحول الأزهار والثمار إلى اللون البني، وتجفيفها، وتعفنها. يمكن أن يقلل بشكل كبير من إنتاج الثمار وجودتها."
+                },
+                "health_condition": {
+                    "en": "Blossom blight does not pose a direct health risk to humans, but it can severely impact strawberry yields and quality, potentially causing economic losses and reduced availability.",
+                    "ar": "ذبول الأزهار لا يشكل خطرًا مباشرًا على صحة الإنسان، لكنه قد يؤثر بشكل كبير على إنتاجية وجودة الفراولة، مما قد يسبب خسائر اقتصادية وتقليلًا في التوافر."
+                }
+            },
+            "Leaf spot": {
+                "disease_name": {
+                    "en": "Leaf spot",
+                    "ar": "بقعة الورق"
+                },
+                "description": {
+                    "en": "Leaf spot refers to various fungal or bacterial diseases that cause spots or lesions to appear on strawberry leaves. These spots can vary in color and shape and can lead to defoliation if left untreated.",
+                    "ar": "تشير بقعة الورق إلى مرض فطري أو بكتيري متنوع يتسبب في ظهور بقع أو آفات على أوراق الفراولة. يمكن أن تختلف هذه البقع في اللون والشكل ويمكن أن تؤدي إلى التساقط إذا لم يتم معالجتها."
+                },
+                "health_condition": {
+                    "en": "While leaf spot diseases do not directly affect human health, they can weaken strawberry plants and reduce their ability to produce fruits, potentially impacting their availability and quality.",
+                    "ar": "على الرغم من أن أمراض بقعة الورق لا تؤثر مباشرة على صحة الإنسان، إلا أنها قد تضعف نباتات الفراولة وتقلل من قدرتها على إنتاج الثمار، مما قد يؤثر على توافرها وجودتها."
+                }
+            },
+            "Powdery mildew leaf": {
+                "disease_name": {
+                    "en": "Powdery mildew leaf",
+                    "ar": "ورقة العفن البودري"
+                },
+                "description": {
+                    "en": "Powdery mildew is a fungal disease that affects strawberry plants, causing a white or gray powdery growth to appear on the leaves, stems, and fruits. It can lead to stunted growth, defoliation, and reduced fruit production.",
+                    "ar": "العفن البودري هو مرض فطري يؤثر على نباتات الفراولة، مما يسبب نمواً بودرياً أبيضاً أو رمادياً على الأوراق والسيقان والثمار. يمكن أن يؤدي إلى نمو متعثر وتساقط الأوراق وانخفاض إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "While powdery mildew does not directly affect human health, it can reduce strawberry yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن العفن البودري لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل من محصول الفراولة وجودتها، مما قد يؤثر على توفرها وقيمتها الغذائية."
+                }
+            }
+        }
+    },
+    "new_bananadiseases": {
+        "label": {
+            "en": "Banana",
+            "ar": "الموز"
+        },
+        "diseases": {
+            "Cordana": {
+                "disease_name": {
+                    "en": "Cordana",
+                    "ar": "كوردانا"
+                },
+                "description": {
+                    "en": "Cordana is a fungal disease that affects banana plants, causing yellow streaks or patches to appear on the leaves. These streaks can eventually turn brown or black, leading to potential defoliation and reduced fruit production.",
+                    "ar": "الكوردانا هو مرض فطري يؤثر على نباتات الموز، مما يسبب ظهور خطوط أو بقع صفراء على الأوراق. يمكن أن تتحول هذه الخطوط في نهاية المطاف إلى اللون البني أو الأسود، مما يؤدي إلى تساقط الأوراق المحتمل وتقليل إنتاج الثمار."
+                },
+                "health_condition": {
+                    "en": "While Cordana does not directly affect human health, it can reduce banana yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن الكوردانا لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من محصول الموز وجودته، مما قد يؤثر على توفره وقيمته الغذائية."
+                }
+            },
+            "Pestalotiopsis": {
+                "disease_name": {
+                    "en": "Pestalotiopsis",
+                    "ar": "بيستالوتيوبسيس"
+                },
+                "description": {
+                    "en": "Pestalotiopsis is a fungal disease that affects banana plants, causing small, dark-colored spots or lesions to appear on the leaves, pseudostems, and fruits. These lesions can eventually merge and lead to tissue decay.",
+                    "ar": "البيستالوتيوبسيس هو مرض فطري يؤثر على نباتات الموز، مما يسبب ظهور بقع صغيرة باللون الداكن أو تناقصات على الأوراق والسيقان الزائفة والثمار. يمكن أن تتحد هذه التناقصات في نهاية المطاف وتؤدي إلى تدهور الأنسجة."
+                },
+                "health_condition": {
+                    "en": "While Pestalotiopsis does not pose a direct health risk to humans, it can impact banana quality and yield if the infection is severe, potentially reducing their availability and nutritional value.",
+                    "ar": "على الرغم من أن البيستالوتيوبسيس لا يشكل خطراً مباشراً على صحة الإنسان، إلا أنه يمكن أن يؤثر على جودة الموز ومحصوله إذا كانت الإصابة شديدة، مما قد يقلل من توفره وقيمته الغذائية."
+                }
+            },
+            "Sigatoka": {
+                "disease_name": {
+                    "en": "Sigatoka",
+                    "ar": "سيجاتوكا"
+                },
+                "description": {
+                    "en": "Sigatoka, also known as black leaf streak disease, is a fungal disease that affects banana plants, causing elongated streaks or spots to appear on the leaves. These streaks can eventually turn brown or black, leading to defoliation and potential yield loss.",
+                    "ar": "السيجاتوكا، المعروف أيضاً باسم مرض تشوه الأوراق السوداء، هو مرض فطري يؤثر على نباتات الموز، مما يسبب ظهور خطوط مطولة أو بقع على الأوراق. يمكن أن تتحول هذه الخطوط في نهاية المطاف إلى اللون البني أو الأسود، مما يؤدي إلى تساقط الأوراق وفقدان الإنتاجية المحتمل."
+                },
+                "health_condition": {
+                    "en": "While Sigatoka does not directly affect human health, it can significantly reduce banana yields and quality, potentially causing economic losses and reduced availability.",
+                    "ar": "على الرغم من أن السيجاتوكا لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل بشكل كبير من محصول الموز وجودته، مما قد يسبب خسائر اقتصادية وتقليل في التوفر."
+                }
+            }
+        }
+    },
+    "Orange_leaves": {
+        "label": {
+            "en": "Orange",
+            "ar": "البرتقال"
+        },
+        "diseases": {
+            "Black spot": {
+                "disease_name": {
+                    "en": "Black spot",
+                    "ar": "البقعة السوداء"
+                },
+                "description": {
+                    "en": "Black spot is a fungal disease that affects citrus plants, causing dark brown or black spots to appear on the leaves, stems, and fruits. These spots can eventually lead to premature leaf drop and fruit drop.",
+                    "ar": "البقعة السوداء هو مرض فطري يؤثر على نباتات الحمضيات، مما يسبب ظهور بقع داكنة بنية أو سوداء على الأوراق والسيقان والثمار. يمكن أن تؤدي هذه البقع في نهاية المطاف إلى تساقط مبكر للأوراق والثمار."
+                },
+                "health_condition": {
+                    "en": "While black spot does not directly affect human health, it can reduce the quality and yield of citrus fruits, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن البقعة السوداء لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من جودة وإنتاجية الفواكه الحمضية، مما قد يؤثر على توفرها وقيمتها الغذائية."
+                }
+            },
+            "Canker": {
+                "disease_name": {
+                    "en": "Canker",
+                    "ar": "القرحة"
+                },
+                "description": {
+                    "en": "Canker is a bacterial disease that causes sunken, necrotic lesions to form on the bark, twigs, and fruits of citrus plants. These cankers can girdle branches and stems, leading to dieback and potential tree death.",
+                    "ar": "القرحة هو مرض بكتيري يتسبب في تكوين تندب نقري عميق على اللحاء والفروع والثمار لنباتات الحمضيات. يمكن أن تحيط هذه القروح بالفروع والسيقان، مما يؤدي إلى تقهقر وموت الأشجار المحتمل."
+                },
+                "health_condition": {
+                    "en": "Canker diseases do not pose a direct health risk to humans, but they can severely impact citrus plant health and productivity, reducing fruit yields and quality.",
+                    "ar": "لا تشكل أمراض القروح خطراً مباشراً على صحة الإنسان، ولكن يمكن أن تؤثر بشدة على صحة وإنتاجية نباتات الحمضيات، مما يقلل من إنتاج الثمار وجودتها."
+                }
+            },
+            "Greening": {
+                "disease_name": {
+                    "en": "Greening",
+                    "ar": "التخضير"
+                },
+                "description": {
+                    "en": "Greening, also known as Huanglongbing (HLB), is a devastating bacterial disease that affects citrus plants. It causes yellowing of leaves, stunted growth, and eventual tree decline and death.",
+                    "ar": "التخضير، المعروف أيضاً باسم مرض هوانغلونغبينغ (HLB)، هو مرض بكتيري مدمر يؤثر على نباتات الحمضيات. يسبب تصفير الأوراق ونمو متعثر وتدهور الأشجار وموتها في النهاية."
+                },
+                "health_condition": {
+                    "en": "While greening does not directly affect human health, it has caused significant economic losses in the citrus industry due to reduced fruit yields and quality.",
+                    "ar": "على الرغم من أن التخضير لا يؤثر مباشرة على صحة الإنسان، إلا أنه سبب خسائر اقتصادية كبيرة في صناعة الحمضيات بسبب تقليل إنتاجية الثمار وجودتها."
+                }
+            },
+            "Melanose": {
+                "disease_name": {
+                    "en": "Melanose",
+                    "ar": "ميلانوز"
+                },
+                "description": {
+                    "en": "Melanose is a fungal disease that affects citrus plants, causing raised, brown or black pustules to form on the leaves, stems, and fruits. These pustules can crack and ooze, leading to deformation and potential fruit drop.",
+                    "ar": "ميلانوز هو مرض فطري يؤثر على نباتات الحمضيات، مما يسبب ظهور بثور مرتفعة باللون البني أو الأسود على الأوراق والسيقان والثمار. يمكن أن تتشقق هذه البثور وتنساب، مما يؤدي إلى تشوه الثمار المحتمل وتساقطها."
+                },
+                "health_condition": {
+                    "en": "Melanose does not pose a direct health risk to humans, but it can impact the cosmetic appearance and quality of citrus fruits, potentially reducing their marketability.",
+                    "ar": "لا يشكل ميلانوز خطراً مباشراً على صحة الإنسان، ولكن يمكن أن يؤثر على المظهر الجمالي وجودة فواكه الحمضيات، مما قد يقلل من قابليتها للتسويق."
+                }
+            }
+        }
+    },
+    "The new tomato model": {
+        "label": {
+            "en": "Tomato",
+            "ar": "الطماطم"
+        },
+        "diseases": {
+            "Two-spotted spider mite": {
+                "disease_name": {
+                    "en": "Two-spotted spider mite",
+                    "ar": "العنكبوت الزاحف ذو النقطتين"
+                },
+                "description": {
+                    "en": "The two-spotted spider mite is a tiny pest that can infest tomato plants, feeding on the leaves and causing stippling, discoloration, and potential defoliation.",
+                    "ar": "العنكبوت الزاحف ذو النقطتين هو آفة صغيرة يمكن أن تصيب نباتات الطماطم، حيث تتغذى على الأوراق مما يسبب ظهور نقاط دقيقة، وتغير لون الأوراق، وتساقط الأوراق المحتمل."
+                },
+                "health_condition": {
+                    "en": "Spider mite infestations do not pose a direct health risk to humans, but they can weaken tomato plants, reduce photosynthesis, and impact fruit yields and quality.",
+                    "ar": "الإصابات بالعنكبوت الزاحف لا تشكل خطراً مباشراً على صحة الإنسان، ولكن يمكن أن تضعف نباتات الطماطم، وتقلل من عملية التمثيل الضوئي، وتؤثر على إنتاج الثمار وجودتها."
+                }
+            },
+            "Tomato Yellow Leaf Curl Virus": {
+                "disease_name": {
+                    "en": "Tomato Yellow Leaf Curl Virus",
+                    "ar": "فيروس لفحة الأوراق الصفراء للطماطم"
+                },
+                "description": {
+                    "en": "Tomato Yellow Leaf Curl Virus (TYLCV) is a viral disease that affects tomato plants, causing yellowing, curling, and stunting of the leaves, as well as potential flower and fruit abortion.",
+                    "ar": "فيروس لفحة الأوراق الصفراء للطماطم (TYLCV) هو مرض فيروسي يؤثر على نباتات الطماطم، مما يسبب تصفير وتلوي وتقزم الأوراق، بالإضافة إلى إمكانية حدوث إجهاض للزهور والثمار."
+                },
+                "health_condition": {
+                    "en": "While TYLCV does not directly affect human health, it can significantly reduce tomato yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن فيروس لفحة الأوراق الصفراء للطماطم لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل بشكل كبير من إنتاجية الطماطم وجودتها، مما قد يؤثر على توفرها وقيمتها الغذائية."
+                }
+            },
+            "Tomato mosaic virus": {
+                "disease_name": {
+                    "en": "Tomato mosaic virus",
+                    "ar": "فيروس التشوه الموزاييكي للطماطم"
+                },
+                "description": {
+                    "en": "Tomato mosaic virus is a viral disease that causes a distinctive mottled or mosaic pattern on the leaves of affected tomato plants. It can also lead to stunted growth and reduced fruit production.",
+                    "ar": "فيروس التشوه الموزاييكي للطماطم هو مرض فيروسي يتسبب في ظهور نمط بقعي أو موزاييكي مميز على الأوراق لنباتات الطماطم المصابة. يمكن أيضاً أن يؤدي إلى نمو متعثر وإنتاجية الثمار المنخفضة."
+                },
+                "health_condition": {
+                    "en": "While tomato mosaic virus is not directly harmful to humans, it can reduce tomato yields and quality, impacting food production and availability.",
+                    "ar": "على الرغم من أن فيروس التشوه الموزاييكي للطماطم لا يضر مباشرة بصحة الإنسان، إلا أنه يمكن أن يقلل من إنتاجية الطماطم وجودتها، مما يؤثر على إنتاج الغذاء وتوفره."
+                }
+            },
+            "Target Spot": {
+                "disease_name": {
+                    "en": "Target Spot",
+                    "ar": "بقعة الهدف"
+                },
+                "description": {
+                    "en": "Target Spot is a fungal disease that affects tomato plants, causing circular spots with concentric rings to appear on the leaves. These spots can eventually merge, leading to defoliation and potential fruit infections.",
+                    "ar": "بقعة الهدف هو مرض فطري يؤثر على نباتات الطماطم، مما يسبب ظهور بقع دائرية بحلقات متراكمة على الأوراق. يمكن أن تتحد هذه البقع في نهاية المطاف، مما يؤدي إلى تساقط الأوراق والإصابة المحتملة للثمار."
+                },
+                "health_condition": {
+                    "en": "While Target Spot does not directly affect human health, it can reduce tomato yields and quality, potentially impacting their availability and nutritional value.",
+                    "ar": "على الرغم من أن بقعة الهدف لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من إنتاجية الطماطم وجودتها، مما قد يؤثر على توفرها وقيمتها الغذائية."
+                }
+            },
+            "Septoria leaf spot": {
+                "disease_name": {
+                    "en": "Septoria leaf spot",
+                    "ar": "بقعة أوراق سبتوريا"
+                },
+                "description": {
+                    "en": "Septoria leaf spot is a fungal disease that affects tomato plants, causing small, circular spots with grayish-white centers and dark margins to appear on the leaves. These spots can eventually merge, leading to defoliation and potential yield loss.",
+                    "ar": "بقعة أوراق سبتوريا هو مرض فطري يؤثر على نباتات الطماطم، مما يسبب ظهور بقع دائرية صغيرة ذات مركز أبيض رمادي وحواف داكنة على الأوراق. يمكن أن تتحد هذه البقع في نهاية المطاف، مما يؤدي إلى تساقط الأوراق وفقدان الإنتاج المحتمل."
+                },
+                "health_condition": {
+                    "en": "While Septoria leaf spot does not pose a direct health risk to humans, it can weaken tomato plants and reduce their ability to produce fruits, potentially impacting their availability and quality.",
+                    "ar": "على الرغم من أن بقعة أوراق سبتوريا لا تشكل خطراً مباشراً على صحة الإنسان، إلا أنها يمكن أن تضعف نباتات الطماطم وتقلل من قدرتها على إنتاج الفواكه، مما قد يؤثر على توفرها وجودتها."
+                }
+            },
+            "Leaf Mold": {
+                "disease_name": {
+                    "en": "Leaf Mold",
+                    "ar": "عفن الأوراق"
+                },
+                "description": {
+                    "en": "Leaf Mold, also known as Cladosporium mold, is a fungal disease that affects tomato plants, causing yellow or greenish-brown spots to appear on the leaves. These spots can eventually merge, leading to defoliation and potential yield loss.",
+                    "ar": "عفن الأوراق، المعروف أيضاً باسم عفن الكلادوسبوريوم، هو مرض فطري يؤثر على نباتات الطماطم، مما يسبب ظهور بقع صفراء أو بنية خضراء على الأوراق. يمكن أن تتحد هذه البقع في نهاية المطاف، مما يؤدي إلى تساقط الأوراق وفقدان الإنتاج المحتمل."
+                },
+                "health_condition": {
+                    "en": "While Leaf Mold does not pose a direct health risk to humans, it can reduce tomato plant vigor and productivity, potentially impacting fruit yields and quality.",
+                    "ar": "على الرغم من أن عفن الأوراق لا يشكل خطراً مباشراً على صحة الإنسان، إلا أنه يمكن أن يقلل من نشاط وإنتاجية نباتات الطماطم، مما قد يؤثر على إنتاج الثمار وجودتها."
+                }
+            },
+            "Blight": {
+                "disease_name": {
+                    "en": "Blight",
+                    "ar": "الذبول"
+                },
+                "description": {
+                    "en": "Blight refers to various fungal or bacterial diseases that can affect tomato plants, causing water-soaked lesions, wilting, and potential plant death. Common examples include early blight, late blight, and bacterial blight.",
+                    "ar": "الذبول يشير إلى مجموعة من الأمراض الفطرية أو البكتيرية التي يمكن أن تؤثر على نباتات الطماطم، مما يسبب ظهور تندبات مشبعة بالماء، والذبول، والموت المحتمل للنبات. الأمثلة الشائعة تشمل الذبول المبكر، والذبول المتأخر، والذبول البكتيري."
+                },
+                "health_condition": {
+                    "en": "While blight diseases do not directly affect human health, they can significantly reduce tomato yields and quality, potentially causing economic losses and reduced availability.",
+                    "ar": "بالرغم من أن أمراض الذبول لا تؤثر مباشرة على صحة الإنسان، إلا أنها قد تقلل بشكل كبير من إنتاجية الطماطم وجودتها، مما يمكن أن يسبب خسائر اقتصادية وتقليل في التوفر."
+                }
+            },
+            "Bacterial spot": {
+                "disease_name": {
+                    "en": "Bacterial spot",
+                    "ar": "البقعة البكتيرية"
+                },
+                "description": {
+                    "en": "Bacterial spot is a bacterial disease that affects tomato plants, causing small, water-soaked lesions to appear on the leaves, stems, and fruits. These lesions can eventually turn brown or black, leading to defoliation and potential fruit rot.",
+                    "ar": "البقعة البكتيرية هو مرض بكتيري يؤثر على نباتات الطماطم، مما يسبب ظهور تندبات صغيرة مشبعة بالماء على الأوراق والسيقان والثمار. يمكن أن تتحول هذه التندبات في نهاية المطاف إلى اللون البني أو الأسود، مما يؤدي إلى تساقط الأوراق وفساد الثمار المحتمل."
+                },
+                "health_condition": {
+                    "en": "While bacterial spot does not pose a direct health risk to humans, it can severely impact tomato plant health and productivity, reducing fruit yields and quality.",
+                    "ar": "على الرغم من أن البقعة البكتيرية لا تشكل خطراً مباشراً على صحة الإنسان، إلا أنها يمكن أن تؤثر بشكل كبير على صحة نباتات الطماطم وإنتاجيتها، مما يقلل من إنتاج الثمار وجودتها."
+                }
+            }
+        },
+        "New Corn diseases": {
+            "label": {
+                "en": "Corn",
+                "ar": "ذرة"
+            },
+            "diseases": {
+                "Blight": {
+                    "disease_name": {
+                        "en": "Blight",
+                        "ar": "الذبول"
+                    },
+                    "description": {
+                        "en": "Blight refers to various fungal or bacterial diseases that can affect tomato plants, causing water-soaked lesions, wilting, and potential plant death. Common examples include early blight, late blight, and bacterial blight.",
+                        "ar": "الذبول يشير إلى مجموعة من الأمراض الفطرية أو البكتيرية التي يمكن أن تؤثر على نباتات الطماطم، مما يسبب ظهور تندبات مشبعة بالماء، والذبول، والموت المحتمل للنبات. الأمثلة الشائعة تشمل الذبول المبكر، والذبول المتأخر، والذبول البكتيري."
+                    },
+                    "health_condition": {
+                        "en": "While blight diseases do not directly affect human health, they can significantly reduce tomato yields and quality, potentially causing economic losses and reduced availability.",
+                        "ar": "بالرغم من أن أمراض الذبول لا تؤثر مباشرة على صحة الإنسان، إلا أنها قد تقلل بشكل كبير من إنتاجية الطماطم وجودتها، مما يمكن أن يسبب خسائر اقتصادية وتقليل في التوفر."
+                    }
+                },
+                "Common Rust": {
+                    "disease_name": {
+                        "en": "Common Rust",
+                        "ar": "الصدأ الشائع"
+                    },
+                    "description": {
+                        "en": "Common Rust is a fungal disease that affects corn plants, causing reddish-brown or orange pustules to appear on the leaves, stems, and husks. These pustules can eventually rupture, releasing spores and leading to potential defoliation and yield loss.",
+                        "ar": "الصدأ الشائع هو مرض فطري يؤثر على نباتات الذرة، مما يسبب ظهور بثور بنية حمراء أو برتقالية على الأوراق والسيقان والقشور. يمكن أن تنفجر هذه البثور في نهاية المطاف، مما يؤدي إلى إطلاق البوغات والتسبب في تساقط الأوراق وفقدان الإنتاج المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "While Common Rust does not pose a direct health risk to humans, it can weaken corn plants and reduce their ability to produce ears, potentially impacting yields and quality.",
+                        "ar": "بالرغم من أن الصدأ الشائع لا يشكل خطراً مباشراً على صحة الإنسان، إلا أنه يمكن أن يضعف نباتات الذرة ويقلل من قدرتها على إنتاج السنابل، مما قد يؤثر على الإنتاج والجودة."
+                    }
+                },
+                "Gray Leaf Spot": {
+                    "disease_name": {
+                        "en": "Gray Leaf Spot",
+                        "ar": "بقعة الورق الرمادية"
+                    },
+                    "description": {
+                        "en": "Gray Leaf Spot is a fungal disease that affects corn plants, causing rectangular, tan or gray lesions to appear on the leaves. These lesions can eventually merge, leading to defoliation and potential yield loss.",
+                        "ar": "بقعة الورق الرمادية هو مرض فطري يؤثر على نباتات الذرة، مما يسبب ظهور تندبات مستطيلة باللون البني الفاتح أو الرمادي على الأوراق. يمكن أن تتحد هذه التندبات في نهاية المطاف، مما يؤدي إلى تساقط الأوراق وفقدان الإنتاج المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "While Gray Leaf Spot does not directly affect human health, it can reduce corn plant vigor and productivity, potentially impacting yields and quality.",
+                        "ar": "على الرغم من أن بقعة الورق الرمادية لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من نشاط وإنتاجية نباتات الذرة، مما قد يؤثر على الإنتاج والجودة."
+                    }
+                },
+                "Southern Rust": {
+                    "disease_name": {
+                        "en": "Southern Rust",
+                        "ar": "الصدأ الجنوبي"
+                    },
+                    "description": {
+                        "en": "Southern Rust is a fungal disease that affects corn plants, causing reddish-orange or orange-brown pustules to appear on the leaves. These pustules can eventually rupture, releasing spores and leading to potential defoliation and yield loss.",
+                        "ar": "الصدأ الجنوبي هو مرض فطري يؤثر على نباتات الذرة، مما يسبب ظهور بثور برتقالية أو بنية برتقالية على الأوراق. يمكن أن تنفجر هذه البثور في نهاية المطاف، مما يؤدي إلى إطلاق البوغات والتسبب في تساقط الأوراق وفقدان الإنتاج المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "While Southern Rust does not pose a direct health risk to humans, it can significantly reduce corn yields and quality, potentially causing economic losses and reduced availability.",
+                        "ar": "بالرغم من أن الصدأ الجنوبي لا يشكل خطراً مباشراً على صحة الإنسان، إلا أنه يمكن أن يقلل بشكل كبير من إنتاجية الذرة وجودتها، مما يمكن أن يسبب خسائر اقتصادية وتقليل في التوفر."
+                    }
+                }
+            }
+        },
+        "PearTreeLeaf": {
+            "label": {
+                "en": "Pear Tree",
+                "ar": "شجرة الكمثرى"
+            },
+            "diseases": {
+                "Spot": {
+                    "disease_name": {
+                        "en": "Spot",
+                        "ar": "البقعة"
+                    },
+                    "description": {
+                        "en": "Spot is a condition that affects pear tree leaves, causing small, dark-colored spots or lesions to appear on the leaf surface. These spots can vary in size and color and may be caused by fungal or bacterial pathogens.",
+                        "ar": "البقعة هي حالة تؤثر على أوراق شجرة الكمثرى، مما يسبب ظهور بقع صغيرة باللون الداكن أو تندبات على سطح الورقة. يمكن أن تتفاوت حجم هذه البقع ولونها وقد تكون ناتجة عن الفطريات أو البكتيريا."
+                    },
+                    "health_condition": {
+                        "en": "While leaf spots themselves do not pose a direct health risk to humans, they can indicate underlying disease issues that may impact pear tree health and productivity, potentially reducing fruit yields and quality.",
+                        "ar": "بالرغم من أن البقع على الأوراق لا تشكل خطراً مباشراً على صحة الإنسان، إلا أنها يمكن أن تشير إلى مشاكل مرضية أساسية قد تؤثر على صحة شجرة الكمثرى وإنتاجيتها، مما يمكن أن يقلل من إنتاج الثمار وجودتها."
+                    }
+                },
+                "Slug": {
+                    "disease_name": {
+                        "en": "Slug",
+                        "ar": "الحلزون"
+                    },
+                    "description": {
+                        "en": "Slug is a pest that can damage pear tree leaves by feeding on the leaf tissue, leaving irregular holes or skeletonized areas.",
+                        "ar": "الحلزون هو آفة يمكن أن تلحق ضرراً بأوراق شجرة الكمثرى عن طريق الاستمتاع بأنسجة الورقة، مما يترك ثقوبًا غير منتظمة أو مناطق مجردة العظم."
+                    },
+                    "health_condition": {
+                        "en": "While slug infestations do not directly affect human health, they can weaken pear trees and reduce their ability to produce fruits, potentially impacting their availability and quality.",
+                        "ar": "بالرغم من أن الإصابة بالحلزون لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تضعف شجرة الكمثرى وتقلل من قدرتها على إنتاج الثمار، مما قد يؤثر على توفرها وجودتها."
+                    }
+                },
+                "Curl": {
+                    "disease_name": {
+                        "en": "Curl",
+                        "ar": "التجعد"
+                    },
+                    "description": {
+                        "en": "Curl is a condition that affects pear tree leaves, causing them to become distorted, curled, or twisted in shape. This can be caused by various factors, such as environmental stress, nutrient deficiencies, or viral infections.",
+                        "ar": "التجعد هو حالة تؤثر على أوراق شجرة الكمثرى، مما يجعلها تتشوه، أو تتجعد، أو تتلوى في الشكل. يمكن أن تسبب هذه الحالة عوامل مختلفة، مثل الإجهاد البيئي، ونقص العناصر الغذائية، أو العدوى الفيروسية."
+                    },
+                    "health_condition": {
+                        "en": "While leaf curl itself does not pose a direct health risk to humans, it can indicate underlying issues that may impact pear tree health and productivity, potentially reducing fruit yields and quality.",
+                        "ar": "على الرغم من أن التجعد في الأوراق لا يشكل خطراً مباشراً على صحة الإنسان، إلا أنه يمكن أن يشير إلى مشاكل أساسية قد تؤثر على صحة شجرة الكمثرى وإنتاجيتها، مما يمكن أن يقلل من إنتاج الثمار وجودتها."
+                    }
+                }
+            }
+        },
+        "Tomatoes2024": {
+            "label": {
+                "en": "Tomatoes 2024",
+                "ar": "الطماطم ٢٠٢٤"
+            },
+            "diseases": {
+                "Bacterial spot": {
+                    "disease_name": {
+                        "en": "Bacterial spot",
+                        "ar": "بقعة بكتيرية"
+                    },
+                    "description": {
+                        "en": "Bacterial spot is a bacterial disease that affects tomato plants, causing small, water-soaked lesions to appear on the leaves, stems, and fruits. These lesions can eventually turn brown or black, leading to defoliation and potential fruit rot.",
+                        "ar": "البقعة البكتيرية هي مرض بكتيري يؤثر على نباتات الطماطم، مما يسبب ظهور بقع مائية صغيرة على الأوراق والسيقان والثمار. يمكن أن تتحول هذه البقع في نهاية المطاف إلى اللون البني أو الأسود، مما يؤدي إلى تساقط الأوراق والتعفن المحتمل للثمار."
+                    },
+                    "health_condition": {
+                        "en": "While bacterial spot does not pose a direct health risk to humans, it can severely impact tomato plant health and productivity, reducing fruit yields and quality.",
+                        "ar": "على الرغم من أن البقعة البكتيرية لا تشكل خطرًا مباشرًا على صحة الإنسان، إلا أنه يمكن أن تؤثر بشكل كبير على صحة نبات الطماطم وإنتاجيته، مما يقلل من محصول الثمار وجودتها."
+                    }
+                },
+                "Bemisia argentifolii": {
+                    "disease_name": {
+                        "en": "Bemisia argentifolii",
+                        "ar": "بيميسيا أرجنتيفولي"
+                    },
+                    "description": {
+                        "en": "Bemisia argentifolii, also known as the silverleaf whitefly, is a pest that can infest and damage tomato plants in 2024, causing yellowing, stunting, and potential defoliation.",
+                        "ar": "بيميسيا أرجنتيفولي، المعروفة أيضًا باسم الذبابة البيضاء ذات الأوراق الفضية، هي آفة يمكن أن تصيب وتلحق الضرر بنباتات الطماطم في عام ٢٠٢٤، مما يتسبب في تصفير الأوراق وتقزم النمو، وتساقط الأوراق المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "While whitefly infestations do not directly affect human health, they can reduce tomato plant vigor and productivity in 2024, potentially impacting fruit yields and quality.",
+                        "ar": "على الرغم من أن آفات الذبابة البيضاء لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من نشاط نبات الطماطم وإنتاجيته في عام ٢٠٢٤، مما قد يؤثر على محصول الثمار وجودتها."
+                    }
+                },
+                "Early blight": {
+                    "disease_name": {
+                        "en": "Early blight",
+                        "ar": "البقعة المبكرة"
+                    },
+                    "description": {
+                        "en": "Early blight is a fungal disease that affects potato plants, causing circular brown spots to appear on the leaves. These spots can eventually merge, leading to defoliation and potential tuber infections.",
+                        "ar": "البقعة المبكرة هي مرض فطري يصيب نباتات البطاطس، مما يسبب ظهور بقع بنية دائرية على الأوراق. يمكن أن تتحد هذه البقع في نهاية المطاف، مما يؤدي إلى تساقط الأوراق وعدوى الدرنات المحتملة."
+                    },
+                    "health_condition": {
+                        "en": "While early blight does not directly affect human health, it can reduce potato yields and quality, potentially impacting their availability and nutritional value.",
+                        "ar": "على الرغم من أن البقعة المبكرة لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من محصول البطاطس وجودتها، مما قد يؤثر على توافرها وقيمتها الغذائية."
+                    }
+                },
+                "Helicoverpa armigera": {
+                    "disease_name": {
+                        "en": "Helicoverpa armigera",
+                        "ar": "هيليكوفيربا أرميجيرا"
+                    },
+                    "description": {
+                        "en": "Helicoverpa armigera, commonly known as the cotton bollworm or corn earworm, is a caterpillar pest that can feed on tomato plants in 2024, causing damage to leaves, flowers, and fruits.",
+                        "ar": "هيليكوفيربا أرميجيرا، المعروفة باسم دودة كرة القطن أو دودة سن الذرة، هي آفة يمكن أن تتغذى على نباتات الطماطم في عام ٢٠٢٤، مما يتسبب في تلف الأوراق والزهور والثمار."
+                    },
+                    "health_condition": {
+                        "en": "While bollworm infestations do not pose a direct health risk to humans, they can cause significant damage to tomato crops in 2024, reducing yields and quality.",
+                        "ar": "على الرغم من أن آفات الدودة القطنية لا تشكل خطرًا مباشرًا على صحة الإنسان، إلا أنها يمكن أن تتسبب في تلف كبير لمحاصيل الطماطم في عام ٢٠٢٤، مما يقلل من محصولها وجودتها."
+                    }
+                },
+                "Late blight": {
+                    "disease_name": {
+                        "en": "Late blight",
+                        "ar": "البقعة المتأخرة"
+                    },
+                    "description": {
+                        "en": "Late blight is a devastating fungal disease that affects potato plants, causing water-soaked lesions on the leaves, stems, and tubers. These lesions can quickly spread, leading to complete plant death and tuber rot.",
+                        "ar": "البقعة المتأخرة هي مرض فطري مدمر يصيب نباتات البطاطس، مما يتسبب في ظهور بقع مشبعة بالماء على الأوراق والسيقان والدرنات. يمكن أن تنتشر هذه البقع بسرعة، مما يؤدي إلى موت النبات بالكامل وتعفن الدرنات."
+                    },
+                    "health_condition": {
+                        "en": "Late blight does not pose a direct health risk to humans, but it can severely impact potato yields and quality, potentially causing significant economic losses and food shortages.",
+                        "ar": "البقعة المتأخرة لا تشكل خطرًا مباشرًا على صحة الإنسان، لكنها يمكن أن تؤثر بشكل كبير على محصول البطاطس وجودته، مما قد يتسبب في خسائر اقتصادية كبيرة ونقص في الغذاء."
+                    }
+                },
+                "Leaf Miner": {
+                    "disease_name": {
+                        "en": "Leaf Miner",
+                        "ar": "مُنقِّر الأوراق"
+                    },
+                    "description": {
+                        "en": "Leaf Miner is a pest that can infest tomato plants in 2024, causing serpentine tunnels or mines to appear on the leaves as the larvae feed inside.",
+                        "ar": "مُنقِّر الأوراق هو آفة يمكن أن تصيب نباتات الطماطم في عام ٢٠٢٤، مما يتسبب في ظهور أنفاق أو مناجم متعرجة على الأوراق أثناء تغذية اليرقات بالداخل."
+                    },
+                    "health_condition": {
+                        "en": "While leaf miner infestations do not directly affect human health, they can weaken tomato plants, reduce photosynthesis, and impact fruit yields and quality in 2024.",
+                        "ar": "على الرغم من أن آفات مُنقِّر الأوراق لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تضعف نباتات الطماطم، وتقلل من عملية التمثيل الضوئي، وتؤثر على محصول الثمار وجودته في عام ٢٠٢٤."
+                    }
+                },
+                "Leaf Mold": {
+                    "disease_name": {
+                        "en": "Leaf Mold",
+                        "ar": "عفن الأوراق"
+                    },
+                    "description": {
+                        "en": "Leaf Mold, also known as Cladosporium mold, is a fungal disease that affects tomato plants, causing yellow or greenish-brown spots to appear on the leaves. These spots can eventually merge, leading to defoliation and potential yield loss.",
+                        "ar": "عفن الأوراق، المعروف أيضًا باسم عفن الكلادوسبوريوم، هو مرض فطري يصيب نباتات الطماطم، مما يتسبب في ظهور بقع صفراء أو بنية زيتونية على الأوراق. يمكن أن تتحد هذه البقع في نهاية المطاف، مما يؤدي إلى تساقط الأوراق وفقدان المحصول المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "While Leaf Mold does not pose a direct health risk to humans, it can reduce tomato plant vigor and productivity, potentially impacting fruit yields and quality.",
+                        "ar": "على الرغم من أن عفن الأوراق لا يشكل خطرًا مباشرًا على صحة الإنسان، إلا أنه يمكن أن يقلل من نشاط نبات الطماطم وإنتاجيته، مما يؤثر على محصول الثمار وجودته."
+                    }
+                },
+                "Magnesium Deficiency": {
+                    "disease_name": {
+                        "en": "Magnesium Deficiency",
+                        "ar": "نقص المغنيسيوم"
+                    },
+                    "description": {
+                        "en": "Magnesium Deficiency is a nutrient deficiency that can affect tomato plants in 2024, causing interveinal chlorosis (yellowing between the leaf veins) and potential stunting or reduced fruit production.",
+                        "ar": "نقص المغنيسيوم هو نقص في المغذيات يمكن أن يؤثر على نباتات الطماطم في عام ٢٠٢٤، مما يسبب اصفراراً بين الأوراق وإمكانية التقزم أو الإنتاج المنخفض للثمار."
+                    },
+                    "health_condition": {
+                        "en": "While Magnesium Deficiency itself does not pose a direct health risk to humans, it can impact tomato plant health and productivity in 2024, potentially reducing fruit yields and quality.",
+                        "ar": "بالرغم من أن نقص المغنيسيوم نفسه لا يشكل خطرًا مباشرًا على صحة الإنسان، إلا أنه يمكن أن يؤثر على صحة وإنتاجية نبات الطماطم في عام ٢٠٢٤، مما قد يقلل من محصول الثمار وجودته."
+                    }
+                },
+                "Myzus persicae": {
+                    "disease_name": {
+                        "en": "Myzus persicae",
+                        "ar": "موزوس بيرسيكي"
+                    },
+                    "description": {
+                        "en": "Myzus persicae, also known as the green peach aphid, is a common pest that can infest and damage tomato plants in 2024, causing leaf curling, stunting, and potential virus transmission.",
+                        "ar": "الموزوس بيرسيكي، المعروف أيضًا باسم البوقة الخضراء الخوخية، هو آفة شائعة يمكن أن تصيب وتلحق الضرر بنباتات الطماطم في عام ٢٠٢٤، مما يتسبب في تجعيد الأوراق وتقزم النمو، وإمكانية نقل الفيروسات."
+                    },
+                    "health_condition": {
+                        "en": "While aphid infestations do not directly affect human health, they can weaken tomato plants, transmit viruses, and reduce fruit yields and quality in 2024.",
+                        "ar": "على الرغم من أن آفات البوقة الخضراء الخوخية لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تضعف نباتات الطماطم، وتنقل الفيروسات، وتقلل من محصول الثمار وجودتها في عام ٢٠٢٤."
+                    }
+                },
+                "Nitrogen Deficiency": {
+                    "disease_name": {
+                        "en": "Nitrogen Deficiency",
+                        "ar": "نقص النيتروجين"
+                    },
+                    "description": {
+                        "en": "Nitrogen Deficiency is a nutrient deficiency that can affect tomato plants in 2024, causing yellowing of older leaves, stunted growth, and potential reduction in fruit production.",
+                        "ar": "نقص النيتروجين هو نقص في المغذيات يمكن أن يؤثر على نباتات الطماطم في عام ٢٠٢٤، مما يسبب اصفرار الأوراق القديمة، وتقزم النمو، وإمكانية الحد من إنتاج الثمار."
+                    },
+                    "health_condition": {
+                        "en": "While Nitrogen Deficiency does not pose a direct health risk to humans, it can impact tomato plant vigor and productivity in 2024, potentially reducing fruit yields and quality.",
+                        "ar": "بالرغم من أن نقص النيتروجين نفسه لا يشكل خطرًا مباشرًا على صحة الإنسان، إلا أنه يمكن أن يؤثر على نشاط وإنتاجية نبات الطماطم في عام ٢٠٢٤، مما قد يقلل من محصول الثمار وجودته."
+                    }
+                },
+                "Potassium Deficiency": {
+                    "disease_name": {
+                        "en": "Potassium Deficiency",
+                        "ar": "نقص البوتاسيوم"
+                    },
+                    "description": {
+                        "en": "Potassium Deficiency is a nutrient deficiency that can affect tomato plants in 2024, causing leaf edge scorching, stunted growth, and potential reduction in fruit production.",
+                        "ar": "نقص البوتاسيوم هو نقص في المغذيات يمكن أن يؤثر على نباتات الطماطم في عام ٢٠٢٤، مما يسبب حرق حواف الأوراق، وتقزم النمو، وإمكانية الحد من إنتاج الثمار."
+                    },
+                    "health_condition": {
+                        "en": "While Potassium Deficiency does not directly affect human health, it can weaken tomato plants and reduce their ability to produce fruits in 2024, potentially impacting their availability and quality.",
+                        "ar": "بالرغم من أن نقص البوتاسيوم لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يضعف نباتات الطماطم ويقلل من قدرتها على إنتاج الثمار في عام ٢٠٢٤، مما قد يؤثر على توفرها وجودتها."
+                    }
+                },
+                "Septoria leaf spot": {
+                    "disease_name": {
+                        "en": "Septoria leaf spot",
+                        "ar": "بقعة ورقة السبتوريا"
+                    },
+                    "description": {
+                        "en": "Septoria leaf spot is a fungal disease that affects tomato plants, causing small, circular spots with grayish-white centers and dark margins to appear on the leaves. These spots can eventually merge, leading to defoliation and potential yield loss.",
+                        "ar": "بقعة ورقة السبتوريا هي مرض فطري يصيب نباتات الطماطم، مما يتسبب في ظهور بقع دائرية صغيرة ذات مركز أبيض رمادي وحواف داكنة على الأوراق. يمكن أن تدمج هذه البقع في النهاية، مما يؤدي إلى تساقط الأوراق وفقدان الإنتاجية المحتملة."
+                    },
+                    "health_condition": {
+                        "en": "While Septoria leaf spot does not pose a direct health risk to humans, it can weaken tomato plants and reduce their ability to produce fruits, potentially impacting their availability and quality.",
+                        "ar": "على الرغم من أن بقعة ورقة السبتوريا لا تشكل خطرًا مباشرًا على صحة الإنسان، إلا أنها يمكن أن تضعف نباتات الطماطم وتقلل من قدرتها على إنتاج الثمار، مما قد يؤثر على توفرها وجودتها."
+                    }
+                },
+                "Spider mites Two-spotted spider mite": {
+                    "disease_name": {
+                        "en": "Spider mites Two-spotted spider mite",
+                        "ar": "فئران العنكبوت، فئران العنكبوت المنقطتين"
+                    },
+                    "description": {
+                        "en": "The two-spotted spider mite is a tiny pest that can infest tomato plants in 2024, feeding on the leaves and causing stippling, discoloration, and potential defoliation.",
+                        "ar": "فئران العنكبوت المنقطتين هي آفة صغيرة يمكن أن تصيب نباتات الطماطم في عام ٢٠٢٤، حيث تتغذى على الأوراق وتتسبب في ظهور نقاط صغيرة، وتغير لون الأوراق، وفقدان الأوراق المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "Spider mite infestations do not pose a direct health risk to humans, but they can weaken tomato plants, reduce photosynthesis, and impact fruit yields and quality in 2024.",
+                        "ar": "آفات فئران العنكبوت لا تشكل خطرًا مباشرًا على صحة الإنسان، ولكنها يمكن أن تضعف نباتات الطماطم، وتقلل من عملية التمثيل الضوئي، وتؤثر على محصول الثمار وجودته في عام ٢٠٢٤."
+                    }
+                },
+                "Spodoptera exigua": {
+                    "disease_name": {
+                        "en": "Spodoptera exigua",
+                        "ar": "الدودة الجياعة المدقعة"
+                    },
+                    "description": {
+                        "en": "Spodoptera exigua, commonly known as the beet armyworm, is a caterpillar pest that can feed on tomato plants in 2024, causing damage to leaves, flowers, and fruits.",
+                        "ar": "الدودة الجياعة المدقعة، المعروفة أيضًا باسم دودة الجياع، هي آفة تسمان يمكن أن تتغذى على نباتات الطماطم في عام ٢٠٢٤، مما يتسبب في تلف الأوراق والزهور والثمار."
+                    },
+                    "health_condition": {
+                        "en": "While beet armyworm infestations do not pose a direct health risk to humans, they can cause significant damage to tomato crops in 2024, reducing yields and quality.",
+                        "ar": "على الرغم من أن آفات الدودة الجياعة المدقعة لا تشكل خطرًا مباشرًا على صحة الإنسان، إلا أنها يمكن أن تسبب أضرارًا كبيرة لمحاصيل الطماطم في عام ٢٠٢٤، مما يؤدي إلى تقليل الإنتاجية والجودة."
+                    }
+                },
+                "Spodoptera litura": {
+                    "disease_name": {
+                        "en": "Spodoptera litura",
+                        "ar": "الدودة القاطعة التبغية"
+                    },
+                    "description": {
+                        "en": "Spodoptera litura, commonly known as the tobacco cutworm or cluster caterpillar, is a pest that can feed on tomato plants in 2024, causing defoliation and potential yield loss.",
+                        "ar": "الدودة القاطعة التبغية، المعروفة أيضًا باسم دودة القاطعة المتجمعة، هي آفة يمكن أن تتغذى على نباتات الطماطم في عام ٢٠٢٤، مما يتسبب في تساقط الأوراق وفقدان الإنتاجية المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "While tobacco cutworm infestations do not directly affect human health, they can significantly damage tomato crops in 2024, reducing yields and quality.",
+                        "ar": "على الرغم من أن آفات الدودة القاطعة التبغية لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تتسبب في أضرار كبيرة لمحاصيل الطماطم في عام ٢٠٢٤، مما يؤدي إلى تقليل الإنتاجية والجودة."
+                    }
+                },
+                "Spotted Wilt Virus": {
+                    "disease_name": {
+                        "en": "Spotted Wilt Virus",
+                        "ar": "فيروس التلف المنتشر"
+                    },
+                    "description": {
+                        "en": "Spotted Wilt Virus is a viral disease that affects tomato plants in 2024, causing yellow or brown ring patterns on the leaves, stunting, and potential fruit abnormalities.",
+                        "ar": "فيروس التلف المنتشر هو مرض فيروسي يؤثر على نباتات الطماطم في عام ٢٠٢٤، مما يتسبب في ظهور أنماط دائرية صفراء أو بنية على الأوراق، وتقزم النمو، وشوائب الثمار المحتملة."
+                    },
+                    "health_condition": {
+                        "en": "While Spotted Wilt Virus does not directly affect human health, it can reduce tomato yields and quality in 2024, potentially impacting their availability and nutritional value.",
+                        "ar": "على الرغم من أن فيروس التلف المنتشر لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل من محصول الطماطم وجودته في عام ٢٠٢٤، مما قد يؤثر على توفرها وقيمتها الغذائية."
+                    }
+                },
+                "Target Spot": {
+                    "disease_name": {
+                        "en": "Target Spot",
+                        "ar": "بقعة الهدف"
+                    },
+                    "description": {
+                        "en": "Target Spot is a fungal disease that affects tomato plants, causing circular spots with concentric rings to appear on the leaves. These spots can eventually merge, leading to defoliation and potential fruit infections.",
+                        "ar": "بقعة الهدف هي مرض فطري يصيب نباتات الطماطم، مما يتسبب في ظهور بقع دائرية مع حلقات متراكمة على الأوراق. يمكن أن تدمج هذه البقع في النهاية، مما يؤدي إلى تساقط الأوراق والعدوى المحتملة للثمار."
+                    },
+                    "health_condition": {
+                        "en": "While Target Spot does not directly affect human health, it can reduce tomato yields and quality, potentially impacting their availability and nutritional value.",
+                        "ar": "على الرغم من أن بقعة الهدف لا تؤثر مباشرة على صحة الإنسان، إلا أنها يمكن أن تقلل من محصول الطماطم وجودتها، مما قد يؤثر على توفرها وقيمتها الغذائية."
+                    }
+                },
+                "Tetranychus urticae": {
+                    "disease_name": {
+                        "en": "Tetranychus urticae",
+                        "ar": "دودة العنكبوت ذات النقطتين"
+                    },
+                    "description": {
+                        "en": "Tetranychus urticae, commonly known as the two-spotted spider mite, is a tiny pest that can infest tomato plants in 2024, feeding on the leaves and causing stippling, discoloration, and potential defoliation.",
+                        "ar": "دودة العنكبوت ذات النقطتين هي آفة صغيرة يمكن أن تصيب نباتات الطماطم في عام ٢٠٢٤، حيث تتغذى على الأوراق وتتسبب في ظهور نقاط، وتغير لون الأوراق، وفقدان الأوراق المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "Spider mite infestations do not pose a direct health risk to humans, but they can weaken tomato plants, reduce photosynthesis, and impact fruit yields and quality in 2024.",
+                        "ar": "آفات دودة العنكبوت ذات النقطتين لا تشكل خطرًا مباشرًا على صحة الإنسان، ولكنها يمكن أن تضعف نباتات الطماطم، وتقلل من عملية التمثيل الضوئي، وتؤثر على محصول الثمار وجودته في عام ٢٠٢٤."
+                    }
+                },
+                "Thrips palmi": {
+                    "disease_name": {
+                        "en": "Thrips palmi",
+                        "ar": "الذباب الزنجبيلي"
+                    },
+                    "description": {
+                        "en": "Thrips palmi, also known as the melon thrips, is a pest that can infest and damage various crops, including vegetables, fruits, and ornamentals.",
+                        "ar": "الذباب الزنجبيلي، المعروف أيضًا باسم الذباب الزنجبيلي، هو آفة يمكن أن تصيب وتلحق الضرر بمحاصيل مختلفة، بما في ذلك الخضروات والفواكه والزينة."
+                    },
+                    "health_condition": {
+                        "en": "Thrips infestations do not directly affect human health, but they can cause stunted growth, leaf discoloration, and reduced crop yields and quality.",
+                        "ar": "آفات الذباب الزنجبيلي لا تؤثر مباشرة على صحة الإنسان، لكنها يمكن أن تسبب تقزم النمو، وتغير لون الأوراق، وتقليل محصول المحاصيل وجودته."
+                    }
+                },
+                "Tomato mosaic virus": {
+                    "disease_name": {
+                        "en": "Tomato mosaic virus",
+                        "ar": "فيروس التغير المتناقض"
+                    },
+                    "description": {
+                        "en": "Tomato mosaic virus is a viral disease that causes a distinctive mottled or mosaic pattern on the leaves of affected tomato plants. It can also lead to stunted growth and reduced fruit production.",
+                        "ar": "فيروس التغير المتناقض هو مرض فيروسي يسبب نمطًا متموجًا أو متناقضًا مميزًا على أوراق نباتات الطماطم المصابة. كما يمكن أن يؤدي إلى تقزم النمو وتقليل إنتاج الثمار."
+                    },
+                    "health_condition": {
+                        "en": "While tomato mosaic virus is not directly harmful to humans, it can reduce tomato yields and quality, impacting food production and availability.",
+                        "ar": "على الرغم من أن فيروس التغير المتناقض لا يضر مباشرة بصحة الإنسان، إلا أنه يمكن أن يقلل من محصول الطماطم وجودته، مما يؤثر على إنتاج وتوفر الغذاء."
+                    }
+                },
+                "Tomato Yellow Leaf Curl Virus": {
+                    "disease_name": {
+                        "en": "Tomato Yellow Leaf Curl Virus",
+                        "ar": "فيروس تجعيد أوراق الطماطم الأصفر"
+                    },
+                    "description": {
+                        "en": "Tomato Yellow Leaf Curl Virus (TYLCV) is a viral disease that affects tomato plants, causing yellowing, curling, and stunting of the leaves, as well as potential flower and fruit abortion.",
+                        "ar": "فيروس تجعيد أوراق الطماطم الأصفر (TYLCV) هو مرض فيروسي يؤثر على نباتات الطماطم، مما يتسبب في إصفرار الأوراق، وتجعيدها، وتقزمها، بالإضافة إلى إمكانية الإجهاض للزهور والثمار."
+                    },
+                    "health_condition": {
+                        "en": "While TYLCV does not directly affect human health, it can significantly reduce tomato yields and quality, potentially impacting their availability and nutritional value.",
+                        "ar": "على الرغم من أن TYLCV لا يؤثر مباشرة على صحة الإنسان، إلا أنه يمكن أن يقلل بشكل كبير من محصول الطماطم وجودته، مما قد يؤثر على توفرها وقيمتها الغذائية."
+                    }
+                },
+                "Zeugodacus cucurbitae": {
+                    "disease_name": {
+                        "en": "Zeugodacus cucurbitae",
+                        "ar": "ذبابة البطيخ أو ذبابة الخيار"
+                    },
+                    "description": {
+                        "en": "Zeugodacus cucurbitae, commonly known as the melon fly or cucumber fly, is a fruit fly pest that can infest and damage tomato crops in 2024, causing fruit deformation and potential yield loss.",
+                        "ar": "ذبابة البطيخ أو ذبابة الخيار، المعروفة أيضًا باسم الذبابة البطيخ أو الذبابة الخيار، هي آفة ذبابة الفاكهة التي يمكن أن تصيب وتلحق الضرر بمحاصيل الطماطم في عام ٢٠٢٤، مما يتسبب في تشوه الثمار وفقدان الإنتاجية المحتمل."
+                    },
+                    "health_condition": {
+                        "en": "While fruit fly infestations do not pose a direct health risk to humans, they can cause significant damage to tomato crops in 2024, reducing yields and quality.",
+                        "ar": "على الرغم من أن آفات ذبابة الفاكهة لا تشكل خطرًا مباشرًا على صحة الإنسان، إلا أنها يمكن أن تسبب أضرارًا كبيرة لمحاصيل الطماطم في عام ٢٠٢٤، مما يؤدي إلى تقليل الإنتاجية والجودة."
+                    }
+                }
+            }
+        }
+    }
+}

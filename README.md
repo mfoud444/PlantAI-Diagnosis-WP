@@ -1,7 +1,7 @@
 <div id="top">
 
 <p align="center">
-  <img src="./logo.jpeg" alt="ReadmeAI Logo" width="400px" height="400px">
+  <img src="./logo.png" alt="ReadmeAI Logo" width="400px" height="400px">
 </p>
 
 <p align="center">
